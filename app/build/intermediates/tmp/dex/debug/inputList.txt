@@ -1,0 +1,5 @@
+/home/sebastian/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/classes/debug
+/home/sebastian/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-55af7f2527defb98539485054c6db6bc38499e3f.jar
+/home/sebastian/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-eab67043f6202d3a8a34348b75b3d95e27a2927d.jar
+/home/sebastian/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/classes-ebcecf1c9f367fad96f3b241df4c32a47fef70ff.jar
+/home/sebastian/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/classes-324bd4ea47372a66a34364588f9a8cbd132837f2.jar
